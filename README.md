@@ -86,4 +86,5 @@ that read the irregular series directly; test whether the effect is explained by
 
 ## Notes
 
-Author: Pascal Desouza. Licensed under the MIT License.
+Author: Pascal Desouza
+Data Source: PhysioNet/Computing in Cardiology Challenge 2012.
