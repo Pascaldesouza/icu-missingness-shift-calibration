@@ -86,4 +86,4 @@ that read the irregular series directly; test whether the effect is explained by
 
 ## Notes
 
-Licensed under MIT. Author: Pascal Desouza.
+Author: Pascal Desouza. Licensed under the MIT License.
