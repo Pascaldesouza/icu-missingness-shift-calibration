@@ -78,4 +78,5 @@ that read the irregular series directly; test whether the effect is explained by
 
 ## Notes
 
-Code written with assistance from Claude (Anthropic). Licensed under MIT. Author: Pascal Desouza.
+Author: Pascal Desouza
+Data Source: PhysioNet/Computing in Cardiology Challenge 2012.
